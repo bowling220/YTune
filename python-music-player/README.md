@@ -4,12 +4,12 @@ A modern music player built with Python and PySide6, featuring YouTube download 
 
 ## Features
 
-- Modern dark UI inspired by popular music players
+- Modern dark UI inspired by popular music players(In Progress)
 - Music library management and playback
 - YouTube download integration - download songs directly from YouTube
-- Album art support
-- Playlist management
-- Responsive design
+- Album art support(In Progress)
+- Playlist management(In Progress)
+- Responsive design(In Progress)
 
 ## Installation
 
