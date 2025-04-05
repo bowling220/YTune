@@ -1,0 +1,1 @@
+"""Dialogs for the Python Music Player application.""" 
