@@ -25,6 +25,7 @@ A modern music player built with Python and PySide6, featuring YouTube download 
 python install_requirements.py
 ```
 
+
 This will install the required packages:
 - PySide6 (GUI framework)
 - yt-dlp (YouTube downloader)
